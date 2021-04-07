@@ -1,0 +1,41 @@
+#intro .jumbotron {
+
+    height:50vh;
+    margin:50px;
+}
+
+#intro h1{
+    font-size:52px;
+    font-weight:800;
+    line-height:1.5;
+}
+
+#first nav img{
+    width:170px;
+    margin-top:20px;
+}
+
+#first li{
+    font-weight:bolder;
+    font-size:20px;
+    margin-left:5px;
+    margin-right:20px;
+}
+
+#second img{
+    border-radius:15%;
+    width:220px;
+}
+
+#intro .container{
+    margin:0;
+    position:relative;
+    top:50%;
+    -ms-transform:translateY(-50%);
+    transform:translateY(-50%);
+    max-width:1000px;
+}
+
+#second h1{
+    margin-bottom:30px;
+}
